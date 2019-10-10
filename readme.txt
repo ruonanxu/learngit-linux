@@ -1,3 +1,4 @@
 git is a version control system.
-git is good.
 git is free software.
+git is not difficult.fighting!
+·¢·¢·¢
